@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324239288365",
+    "project_id": "jalgaon-vegmart-app",
+    "storage_bucket": "jalgaon-vegmart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324239288365:android:bffde71b9f38bf31cb30a4",
+        "android_client_info": {
+          "package_name": "com.codex.jalgaon_vegmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM45vQJS75GVqwXoIqp3a40Pdp-4Yx-yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
